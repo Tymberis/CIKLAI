@@ -297,5 +297,3 @@ print("========================================")
 #         if prime:
 #             print(f" {sk} ", end=" ")
 
-git config --global user.email "meskynasw@gmail.com"
-git config --global user.name "Tymberis"
